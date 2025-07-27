@@ -1,0 +1,6 @@
+git clone https://github.com/<samoolino>/hydroponics-yam-qms.git
+cd hydroponics-yam-qms
+# Then add above files/folders
+git add .
+git commit -m "Initial scaffold for Hydroponics Yam QMS"
+git push
